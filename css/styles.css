@@ -1,0 +1,98 @@
+
+
+div.navbar {
+    background-color:black;
+}
+
+div.header {
+    padding:90px 0px 90px;
+    background:url('../img/bg.jpg');
+}
+
+div.header p {
+    padding-top:30px;
+    font-family: 'Pacifico', cursive;
+    font-size:25px;
+    text-align:justify;
+    color:white;
+}
+
+div.header ul li button {
+    padding:5px 40px 5px 40px;
+    margin-top:10px;
+    margin-left:10px;
+}
+
+.video-grid1 h2.w3ls-title {
+    font-family: 'Gentium Basic', serif;
+    color: #ffffff;
+    font-weight: 600;
+}
+
+.test-review p {
+    max-width: 280px;
+    letter-spacing: 1px;
+}
+
+.img-agile i {
+    font-size: 2em;
+    color: #fdfdfd;
+}
+
+.img-agile h6 {
+    letter-spacing: 2px;
+    font-size: 1.3em;
+}
+
+/***
+ Services
+*/
+ div.services {
+     padding:90px 0px 90px;
+     background-color:rgb(16, 99, 177);
+     color:white;
+ }
+div.services img {
+    padding-top:90px;
+}
+
+/*
+ENd services
+*/
+
+
+/*Media*/
+
+div.media {
+    padding: 50px 0px 50px;
+}
+
+/**END MEDIA*/
+
+
+/**CONTACT*/
+ div.contact {
+     background:rgb(153, 92, 36);
+     padding:50px 0px 50px;
+     color:white;
+ }
+
+
+/**END CONTACT*/
+
+/*FOOTER*/
+
+div.footer{
+    background-color:black;
+    color:white;
+}
+
+div.footer ul li {
+    font-size:20px;
+    padding-top:5px;
+    padding-left:10px;
+}
+
+@media(max-width:768px){
+
+}
